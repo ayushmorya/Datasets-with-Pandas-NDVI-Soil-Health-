@@ -7,6 +7,7 @@ This repository documents what I learned today about importing, inspecting, and 
 Loaded a CSV dataset using pandas.read_csv()
 
 Verified successful import by inspecting the first few rows
+
 2. Dataset Inspection
 
 Used df.head() to preview records
