@@ -69,6 +69,10 @@ This repository documents what I learned today about importing, inspecting, and 
 - Real-world datasets are **never clean**
     
 - Domain knowledge (like NDVI ranges) is critical in data cleaning
+
+Author: Ayush M
+
+Learning-focused, resume-ready, and industry-aligned ✨
     
 - Data inspection is mandatory before modeling
     
