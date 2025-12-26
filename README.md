@@ -79,3 +79,8 @@ Learning-focused, resume-ready, and industry-aligned ✨
 - ML models require **numerical features**, not text
     
 - Pandas provides powerful, simple tools for preprocessing
+
+
+Author: Ayush M
+
+Learning-focused, resume-ready, and industry-aligned ✨
